@@ -1,2 +1,2 @@
-# TE-Phone-dialer
+# TEC-1-Phone-Dialer
 Phone Dialer
