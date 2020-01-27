@@ -1,2 +1,2 @@
-# TEC-1-Ph(one)D(ialer)
+# TEC-1-Ph(one)Dial(er)
 Phone Dialer
